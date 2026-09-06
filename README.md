@@ -1,4 +1,4 @@
-# CCNA Day 13 – Enterprise Mini Project
+# CCNA-lab-13-Enterprise Mini Project
 
 ## Overview
 
