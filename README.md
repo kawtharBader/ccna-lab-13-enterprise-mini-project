@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the design and configuration of a small enterprise network using Cisco Packet Tracer.
+This project demonstrates the design and configuration of a small enterprise network using Cisco Packet Tracer. 
 
 The network integrates multiple networking and security technologies learned throughout the CCNA labs, including VLANs, Inter-VLAN Routing, DHCP, ACLs, SSH, Port Security, and STP.
 
